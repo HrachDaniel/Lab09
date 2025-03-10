@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Лабораторна робота 9 - Меню та повідомлення</title>
+<style>
+.menu {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: #0077cc;
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+.menu:hover {
+  background-color: #f0f0f0;
+}
+
+.small {
+  font-size: 16px;
+  color: red;
+  font-style: italic;
+  margin-top: 20px;
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="#" TARGET="_blank" class="menu">Головна</a>
+  <a href="HrachLab01-9.htm" TARGET="_blank" class="menu">Про нас</a>
+  <a href="Lab07-3.htm" TARGET="_blank" class="menu">Послуги</a>
+  <a href="#" TARGET="_blank" class="menu">Контакти</a>
+</nav>
+
+<p>Основний текст сторінки...</p>
+
+<p class="small">Адреса сторінки: /Hrachlab09-3.htm</p>
+<p class="small">Автор: Грач Д.А.</p>
+
+</body>
+</html>
