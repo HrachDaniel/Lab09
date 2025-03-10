@@ -1,1 +1,42 @@
-123
+<!DOCTYPE html>
+<html>
+<head>
+<title>Лабораторна робота 9 - Класи</title>
+<style>
+.section-name {
+  font-size: 24px;
+  font-weight: bold;
+  color: #336699;
+  margin-bottom: 10px;
+}
+
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.footnote {
+  font-size: 14px;
+  color: red;
+  font-style: italic;
+  margin-top: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="section-name">Розділ 1: Вступ</div>
+<p class="text">Це текст для розділу 1. </p>
+<p class="footnote">Виноска: Додаткова інформація або посилання.</p>
+
+<div class="section-name">Розділ 2: Основна частина</div>
+<p class="text">Це текст для розділу 2. </p>
+<p class="footnote">Виноска: Джерело даних або цитата.</p>
+
+<div class="section-name">Розділ 3: Висновки</div>
+<p class="text">Це текст для розділу 3. </p>
+<p class="footnote">Виноска: Рекомендації для подальшого вивчення.</p>
+
+</body>
+</html>
